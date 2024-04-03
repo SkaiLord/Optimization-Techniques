@@ -9,6 +9,7 @@ This repository contains MATLAB codes for various optimization techniques common
 - `lab2_constraint.m`: MATLAB user defined function to calculate contraints given in lab2_main.m.
 - `lab3.m`: MATLAB code for solving LPP using the algebraic method.
 - `lab4.m`: MATLAB script implementing the simplex method for solving LPP.
+- `lab5.m` : MATLAB script for big-m method.
 
 ## How to Use
 
